@@ -1,0 +1,20 @@
+{
+  "name": "react-native-sandbox-checker",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "sandbox",
+    "environment"
+  ],
+  "author": "Milan Kyncl <kontakt@milankyncl.cz> (https://milankyncl.cz)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github:milankyncl/react-native-sandbox-checker"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
